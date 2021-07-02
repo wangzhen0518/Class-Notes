@@ -30,7 +30,7 @@
 
 > 什么是进程？
 > 进程是正在运行的程序
-> process (active entity) != program (static entity)
+> process (active entity) $\not=$ program (static entity)
 > 任何处理器，同时只能运行 1 个进程
 > 一个程序可能会产生多个进程
 > 一个进程可以为其他代码运行提供环境(java program)
